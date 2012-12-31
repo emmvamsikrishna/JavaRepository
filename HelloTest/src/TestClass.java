@@ -1,4 +1,3 @@
-
 public class TestClass {
 
 	/**
@@ -8,6 +7,8 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("dev");
+		
+		System.out.println("merge operation");
 
 	}
 
